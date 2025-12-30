@@ -73,3 +73,6 @@ python eval/faithfulness.py
 python eval/latency.py
 python eval/fallback_rate.py
 ```
+
+### Evaluation Results
+For a comprehensive analysis of the system's performance across faithfulness, latency, and fallback handling, see the [Evaluation Report](EVALUATION_REPORT.md).
